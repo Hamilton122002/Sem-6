@@ -1,0 +1,10 @@
+Easy hai re 
+1. Pehle libraries
+2. dataset
+3. Columns select karo
+4. train test split
+5. Linear Regression call karo
+6. model fit karo train ke sath
+7. predict karo
+8. r2 score nikalo
+9. plot karo (optional but try karna)
